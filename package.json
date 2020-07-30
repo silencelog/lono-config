@@ -1,6 +1,6 @@
 {
   "name": "@lono/config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@lono/config",
   "scripts": {
     "build": "babel lib -d dist",
