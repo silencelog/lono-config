@@ -9,6 +9,9 @@
     "test": "mocha --require @babel/register"
   },
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.10.1",
@@ -20,9 +23,6 @@
     "mocha": "^6.2.3",
     "nodemon": "^2.0.4"
   },
-  "files": [
-    "lib"
-  ],
   "repository": {},
   "keywords": [
     "lode",
