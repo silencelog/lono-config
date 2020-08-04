@@ -1,6 +1,6 @@
 {
   "name": "@lono/config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "@lono/config",
   "scripts": {
     "build": "babel lib -d dist",
@@ -23,7 +23,6 @@
     "mocha": "^6.2.3",
     "nodemon": "^2.0.4"
   },
-  "repository": {},
   "keywords": [
     "lono",
     "lono-config",
@@ -32,7 +31,14 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "bugs": {},
   "author": "ycl",
+  "homepage": "https://github.com/silencelog/lode-schedule",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silencelog/lode-schedule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silencelog/lode-schedule/issues"
+  },
   "license": "MIT"
 }
