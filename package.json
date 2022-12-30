@@ -20,7 +20,7 @@
     "@babel/plugin-transform-async-to-generator": "^7.12.1",
     "@babel/preset-env": "^7.12.11",
     "@babel/register": "^7.12.10",
-    "mocha": "^6.2.3",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.7"
   },
   "keywords": [
